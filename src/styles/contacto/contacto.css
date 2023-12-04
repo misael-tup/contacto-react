@@ -1,0 +1,17 @@
+body {
+  background-color: #ede4ed;
+}
+
+#formularioContacto {
+  font-family: "Kanit";
+  max-width: 36em;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form-control {
+  border-radius: 20px; /* Ajusta el valor según tus preferencias */
+  /* Otros estilos para los input, como el tamaño, el margen, etc. */
+}
